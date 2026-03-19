@@ -26,11 +26,11 @@ First, ensure you have [Node.js](https://nodejs.org/) installed.
 
 1. **Clone the repository:** 
    ```bash
-   git clone https://github.com/your-username/react-task-manager.git
+   git clone https://github.com/sai-charan-g/React-Task-Management-System.git
    ```
 2. **Navigate into the directory:**
    ```bash
-   cd react-task-manager
+   cd React-Task-Management-System     
    ```
 3. **Install the dependencies:**
    ```bash
